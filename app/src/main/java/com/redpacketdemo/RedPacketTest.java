@@ -103,7 +103,7 @@ public class RedPacketTest extends View {
         animator.setRepeatCount(ValueAnimator.INFINITE);
         //属性值线性变换
         animator.setInterpolator(new LinearInterpolator());
-        animator.setDuration(0);
+//        animator.setDuration(0);
 //        animator.setDuration(10000);
     }
 
